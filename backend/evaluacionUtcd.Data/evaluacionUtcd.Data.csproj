@@ -9,12 +9,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Compile Remove="Migrations\ParametrosAuxiliares\**" />
-      <EmbeddedResource Remove="Migrations\ParametrosAuxiliares\**" />
-      <None Remove="Migrations\ParametrosAuxiliares\**" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="Ardalis.EFCore.Extensions" />
       <PackageReference Include="Enee.Core.Data" />
       <PackageReference Include="Enee.Core.Infraestructure" />

@@ -9,14 +9,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Enee.Core.CQRS"/>
-      <PackageReference Include="Enee.Core.Domain"/>
-      <PackageReference Include="Enee.Core.Events"/>
+      <PackageReference Include="Enee.Core.CQRS" />
+      <PackageReference Include="Enee.Core.Domain" />
+      <PackageReference Include="Enee.Core.Events" />
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Modules\" />
-      <Folder Include="Modules\Almacen\Features\" />
+      <Folder Include="Modules\Almacen\Features\NewFolder\" />
     </ItemGroup>
 
 </Project>
