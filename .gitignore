@@ -53,5 +53,3 @@ Thumbs.db
 
 # Archivos de mermaid
 mermaid-filter.err
-
-.github/workflows/build.yml
