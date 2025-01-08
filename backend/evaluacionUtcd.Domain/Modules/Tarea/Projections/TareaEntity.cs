@@ -15,12 +15,10 @@ namespace evaluacionUtcd.Domain.Modules.Tarea.Projections
         public DateTime? FechaFin { get; set; }
 
         public Guid TipoTareaId { get; set; }
-       // public TipoTareaTabla TipoTarea { get; set; }
 
         public Guid EstadoTareaId { get; set; }
-       // public EstadoTareaTabla EstadoTarea { get; set; }
 
         public Guid PrioridadTareaId { get; set; }
-       // public PrioridadTareaTabla PrioridadTarea { get; set; }
+
     }
 }
