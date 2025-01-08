@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josue.martinez\\Downloads\\EvaluacionUTCD\\evaluacionUtcd\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|evaluacionUtcd.Data\\evaluacionUtcd.Data.csproj|c:\\users\\josue.martinez\\downloads\\evaluacionutcd\\evaluacionutcd\\backend\\evaluacionutcd.data\\migrations\\parametrosauxiliares\\parametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|evaluacionUtcd.Data\\evaluacionUtcd.Data.csproj|solutionrelative:evaluacionutcd.data\\migrations\\parametrosauxiliares\\parametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|evaluacionUtcd.Data\\evaluacionUtcd.Data.csproj|c:\\users\\josue.martinez\\downloads\\evaluacionutcd\\evaluacionutcd\\backend\\evaluacionutcd.data\\migrations\\factura\\tablafactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|evaluacionUtcd.Data\\evaluacionUtcd.Data.csproj|solutionrelative:evaluacionutcd.data\\migrations\\factura\\tablafactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parametros.cs",
+              "DocumentMoniker": "C:\\Users\\josue.martinez\\Downloads\\EvaluacionUTCD\\evaluacionUtcd\\backend\\evaluacionUtcd.Data\\Migrations\\ParametrosAuxiliares\\Parametros.cs",
+              "RelativeDocumentMoniker": "evaluacionUtcd.Data\\Migrations\\ParametrosAuxiliares\\Parametros.cs",
+              "ToolTip": "C:\\Users\\josue.martinez\\Downloads\\EvaluacionUTCD\\evaluacionUtcd\\backend\\evaluacionUtcd.Data\\Migrations\\ParametrosAuxiliares\\Parametros.cs*",
+              "RelativeToolTip": "evaluacionUtcd.Data\\Migrations\\ParametrosAuxiliares\\Parametros.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:08:19.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TablaFactura.cs",
+              "DocumentMoniker": "C:\\Users\\josue.martinez\\Downloads\\EvaluacionUTCD\\evaluacionUtcd\\backend\\evaluacionUtcd.Data\\Migrations\\Factura\\TablaFactura.cs",
+              "RelativeDocumentMoniker": "evaluacionUtcd.Data\\Migrations\\Factura\\TablaFactura.cs",
+              "ToolTip": "C:\\Users\\josue.martinez\\Downloads\\EvaluacionUTCD\\evaluacionUtcd\\backend\\evaluacionUtcd.Data\\Migrations\\Factura\\TablaFactura.cs",
+              "RelativeToolTip": "evaluacionUtcd.Data\\Migrations\\Factura\\TablaFactura.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:07:08.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
