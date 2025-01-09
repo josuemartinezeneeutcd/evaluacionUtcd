@@ -1,7 +1,4 @@
-
 using Enee.Core.CQRS.Validation;
-using Enee.Core.Domain.Repository;
-using evaluacionUtcd.Domain.Modules.TipoTarea.Projections;
 using FluentValidation;
 
 namespace evaluacionUtcd.Domain.Modules.Tarea.Features.CrearTarea

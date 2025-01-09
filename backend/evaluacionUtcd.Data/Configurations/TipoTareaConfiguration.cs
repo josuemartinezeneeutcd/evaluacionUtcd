@@ -12,10 +12,8 @@ public class TipoTareaConfiguration : IEntityTypeConfiguration<TipoTareaTabla>
     /// <param name="builder"></param>
     public void Configure(EntityTypeBuilder<TipoTareaTabla> builder)
     {
-        // Configura la tabla y el esquema
         builder.ToTable("tipo_tarea", Environment.GetEnvironmentVariable("DB__SCHEMA_TABLES"));
 
-        // Configura la clave primaria
         builder.HasKey(x => x.Id);
 
     }
