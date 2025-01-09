@@ -11,7 +11,7 @@ namespace evaluacionUtcd.Api.Modules.Tarea.Features.CrearTareas
         public static void CrearTareaEndpoint(this IEndpointRouteBuilder app)
         {
             app.MapPost(
-                    "/tareas",
+                    "/",
                     async (TareaRequest request, IDispatcher dispatcher) =>
                     {
                         var id = Guid.NewGuid();

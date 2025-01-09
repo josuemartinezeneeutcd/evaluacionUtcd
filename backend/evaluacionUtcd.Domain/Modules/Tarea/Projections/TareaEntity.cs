@@ -1,4 +1,5 @@
 using Enee.Core.Common;
+using evaluacionUtcd.Domain.Modules.TipoTarea.Projections;
 
 namespace evaluacionUtcd.Domain.Modules.Tarea.Projections
 {
@@ -19,6 +20,10 @@ namespace evaluacionUtcd.Domain.Modules.Tarea.Projections
         public Guid EstadoTareaId { get; set; }
 
         public Guid PrioridadTareaId { get; set; }
+
+       public TipoTareaTabla? TipoTarea { get; set; }
+       public EstadoTareaTabla? EstadoTarea { get; set; }
+       public PrioridadTareaTabla? PrioridadTarea { get; set; }
 
     }
 }

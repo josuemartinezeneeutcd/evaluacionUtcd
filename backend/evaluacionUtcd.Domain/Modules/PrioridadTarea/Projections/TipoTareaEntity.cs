@@ -3,7 +3,7 @@ using evaluacionUtcd.Domain.Modules.Tarea.Projections;
 
 namespace evaluacionUtcd.Domain.Modules.TipoTarea.Projections
 {
-    public class TipoTareaTabla : IEntity<Guid>
+    public class PrioridadTareaTabla : IEntity<Guid>
     {
         public Guid Id { get; set; }
 
